@@ -8,5 +8,3 @@ def menu():
     print("6) Raiz Cuadrada")
     print("7) Factorial")
     return int(input("Opcion: "))
-
-menu()
