@@ -7,3 +7,6 @@ def menu():
     print("5) Potencia")
     print("6) Raiz Cuadrada")
     print("7) Factorial")
+    return int(input("Opcion: "))
+
+menu()
