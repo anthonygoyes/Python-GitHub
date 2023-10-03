@@ -16,4 +16,6 @@ def menu():
             return int(opcion)  # Convierte la entrada a un entero y lo retorna
         else:
             print("Entrada no válida. Por favor, ingrese un número válido.")
+            
+
 
